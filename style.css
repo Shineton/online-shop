@@ -1,0 +1,22 @@
+body {
+  background-color: rgba(98, 218, 152, 0.37);
+}
+.f1 {
+  margin-left: 50px;
+}
+.shop {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.speedcube {
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+pre {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 500px;
+  padding-right: 500px;
+}
